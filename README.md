@@ -32,7 +32,7 @@
 ## Projects
 
 1. 사진으로 소통하는 가족 공간: Family Moments 앱 <sup>23.07 - ing</sup>
-2. CMP 솔루션 고도화 <sup>23.07 - 23.09</sup>
+2. CMP 솔루션 고도화 - 교보정보통신 실습 프로젝트 <sup>23.07 - 23.09</sup>
 3. 폐기상품 무료 나눔 <sup>23.01 - 23.02</sup>
 4. 식품 소비기한 관리 및 무료나눔: Fresh Free Food <sup>22.04 - 22.12</sup>
 
