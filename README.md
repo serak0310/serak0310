@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=88C9F2&text=Minjeong's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=35&fontAlign=50&height=250&fontColor=FFFFFF&desc=Backend-Developer&descSize=20&descAlignY=50)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serak0310&hide=jupyter%20notebook&layout=compact)
 
+<br>
+
 ## Skills & Certificates
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></t>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/> 
@@ -14,15 +16,35 @@
 <img src="https://img.shields.io/badge/정보처리기사-000000?style=for-the-badge"/> </t>
 <img src="https://img.shields.io/badge/SQLD-000000?style=for-the-badge"/>
 
+<br>
 
 ## Activities
 - 현대IT&E 채용연계형 SW개발자 양성과정 9기 <sup>24.04 - ing
 - SK planet Tacademy ASAC 웹풀스텍 2기 <sup>23.03 - 23.09
-- 서울여자대학교 프로젝트종합설계 - 식품 소비기한 관리 및 무료나눔 앱 우수상 <sup>22.03 - 22.12
-- 
+- UMC 4기 - 앱 런칭 IT 동아리 Server Springboot 챌린저 <sup>23.03 - 23.08
+- 서울여자대학교 프로젝트종합설계 Kotlin 앱제작 우수상 - 식품 소비기한 관리 및 무료나눔 <sup>22.03 - 22.12
+- UMC 3기 - 앱 런칭 IT 동아리 Server Springboot 챌린저 <sup>22.09 - 23.02
+- 서울여자대학교 해커톤 GURU2 Kotlin 앱제작 우수상 <sup>22.07 - 22.08
+- WE-UP 여성공학리더스 지역사회 사회공헌 서포터즈 <sup>20.07 - 20.12
+
+<br>
 
 ## Projects
-1. CMP 솔루션 고도화 <sup>23.07 - 23.09</sup>
-   - Backend : Springboot, JPA, MySQL
-   - AWS CloudWatch 데이터 조회, 최신화, 배치 작업 API 구현
+
+1. 사진으로 소통하는 가족 공간: Family Moments 앱 <sup>23.07 - ing</sup>
+   - Springboot, JPA, MySQL
+   - 가족(유저 그룹) 관련 API 개발
+   - FCM 푸시 알림 구현
+2. CMP 솔루션 고도화 <sup>23.07 - 23.09</sup>
+   - Springboot, JPA, MySQL
+   - AWS CloudWatch 데이터 조회, 최신화, 배치 작업 API 개발
+3. 폐기상품 무료 나눔 <sup>23.01 - 23.02</sup>
+   - Springboot, MySQL
+   - 회원가입 및 유저 관련 API 개발
+   - SMTP를 활용한 이메일 인증 구현
+4. 식품 소비기한 관리 및 무료나눔: Fresh Free Food
+   - Android, Kotlin, Firebase
+   - 동네 무료 나눔 구현
+   - 유저 간 쪽지 송수신 구현
+   - FCM 푸시 알림 구현
 
