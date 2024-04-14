@@ -27,11 +27,11 @@
 
 :trophy: 서울여자대학교 프로젝트종합설계 Kotlin 앱제작 우수상 <sup>22.03 - 22.12
 
-:computer:UMC 3기 - 앱 런칭 IT 동아리 Server Springboot 챌린저 <sup>22.09 - 23.02
+:computer: UMC 3기 - 앱 런칭 IT 동아리 Server Springboot 챌린저 <sup>22.09 - 23.02
 
 :trophy: 서울여자대학교 해커톤 GURU2 Kotlin 앱제작 우수상 <sup>22.07 - 22.08
 
-:computer:WE-UP 여성공학리더스 지역사회 사회공헌 서포터즈 <sup>20.07 - 20.12
+:computer: WE-UP 여성공학리더스 지역사회 사회공헌 서포터즈 <sup>20.07 - 20.12
 
 <br>
 
