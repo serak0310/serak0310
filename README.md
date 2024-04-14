@@ -22,11 +22,16 @@
 :pencil2: 현대IT&E 채용연계형 SW개발자 양성과정 9기 <sup>24.04 - ing
 
 :pencil2: SK planet Tacademy ASAC 웹풀스텍 2기 <sup>23.03 - 23.09
-- UMC 4기 - 앱 런칭 IT 동아리 Server Springboot 챌린저 <sup>23.03 - 23.08
-- 서울여자대학교 프로젝트종합설계 Kotlin 앱제작 우수상 <sup>22.03 - 22.12
-- UMC 3기 - 앱 런칭 IT 동아리 Server Springboot 챌린저 <sup>22.09 - 23.02
-- 서울여자대학교 해커톤 GURU2 Kotlin 앱제작 우수상 <sup>22.07 - 22.08
-- WE-UP 여성공학리더스 지역사회 사회공헌 서포터즈 <sup>20.07 - 20.12
+
+:computer: UMC 4기 - 앱 런칭 IT 동아리 Server Springboot 챌린저 <sup>23.03 - 23.08
+
+:trophy: 서울여자대학교 프로젝트종합설계 Kotlin 앱제작 우수상 <sup>22.03 - 22.12
+
+:computer:UMC 3기 - 앱 런칭 IT 동아리 Server Springboot 챌린저 <sup>22.09 - 23.02
+
+:trophy: 서울여자대학교 해커톤 GURU2 Kotlin 앱제작 우수상 <sup>22.07 - 22.08
+
+:computer:WE-UP 여성공학리더스 지역사회 사회공헌 서포터즈 <sup>20.07 - 20.12
 
 <br>
 
