@@ -1,4 +1,4 @@
-![image](https://github.com/serak0310/serak0310/assets/63528205/7f411896-3516-4863-b884-1407b6f2a754)![header](https://capsule-render.vercel.app/api?type=waving&color=88C9F2&text=Minjeong's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=35&fontAlign=50&height=250&fontColor=FFFFFF&desc=Backend-Developer&descSize=20&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=88C9F2&text=Minjeong's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=35&fontAlign=50&height=250&fontColor=FFFFFF&desc=Backend-Developer&descSize=20&descAlignY=50)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serak0310&hide=jupyter%20notebook&layout=compact)
 
 ## Skills & Certificates
