@@ -37,9 +37,11 @@
 <br>
 
 ## Projects
-
-1. 사진으로 소통하는 가족 공간: Family Moments 앱 <sup>23.07 - ing</sup>
-2. CMP 솔루션 고도화 <sup>23.07 - 23.09</sup>
-3. 폐기상품 무료 나눔 <sup>23.01 - 23.02</sup>
-4. 식품 소비기한 관리 및 무료나눔: Fresh Free Food <sup>22.04 - 22.12</sup>
+1. [스캔앤고 비대면 결제 서비스: Shall We Scan](https://github.com/hyundai-shallwescan) <sup>24.08 - 24.09</sup>
+2. [사진으로 소통하는 가족 공간: Family Moments](https://github.com/familymoments) <sup>23.07 - 24.09</sup>
+3. [백화점 외부 주차장 위치 및 주차 현황 파악 서비스: Parkro](https://github.com/parkro-99s) <sup>24.07 - 24.08</sup>
+4. [백화점 상품 픽업 서비스: Pick On](https://github.com/ITE-Project1) <sup>24.06</sup>
+5. CMP 솔루션 고도화 <sup>23.07 - 23.09</sup>
+6. [폐기상품 동네 나눔: Reborn](https://github.com/umc-reborn) <sup>23.01 - 23.02</sup>
+7. [식품 소비기한 관리 및 무료나눔: Fresh Free Food](https://github.com/SWUpreme/FreshFreeFood) <sup>22.04 - 22.12</sup>
 
